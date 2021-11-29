@@ -11,3 +11,5 @@ asdasdasdasdawdasdawdawsdasdwdasdasdawdaqwdasdawdqwadqd
 Website
 
 1.Index.html
+2. Now setup made with githun
+now check updates from their ....
